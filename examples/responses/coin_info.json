@@ -1,0 +1,1094 @@
+{
+  "data": {
+    "BTC": [
+      {
+        "id": 1,
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "category": "coin",
+        "description": "Bitcoin (BTC) is a cryptocurrency launched in 2010. Users are able to generate BTC through the process of mining. Bitcoin has a current supply of 20,115,334. The last known price of Bitcoin is 60,104.18711529 USD and is down -2.68 over the last 24 hours. It is currently trading on 12787 active market(s) with $80,491,980,626.64 traded over the last 24 hours. More information can be found at https://bitcoin.org/.",
+        "slug": "bitcoin",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+        "subreddit": "bitcoin",
+        "notice": "",
+        "tags": [
+          "mineable",
+          "pow",
+          "sha-256",
+          "store-of-value",
+          "state-channel",
+          "coinbase-ventures-portfolio",
+          "three-arrows-capital-portfolio",
+          "polychain-capital-portfolio",
+          "binance-labs-portfolio",
+          "blockchain-capital-portfolio",
+          "boostvc-portfolio",
+          "cms-holdings-portfolio",
+          "dcg-portfolio",
+          "dragonfly-capital-portfolio",
+          "electric-capital-portfolio",
+          "fabric-ventures-portfolio",
+          "framework-ventures-portfolio",
+          "galaxy-digital-portfolio",
+          "huobi-capital-portfolio",
+          "alameda-research-portfolio",
+          "a16z-portfolio",
+          "1confirmation-portfolio",
+          "winklevoss-capital-portfolio",
+          "usv-portfolio",
+          "placeholder-ventures-portfolio",
+          "pantera-capital-portfolio",
+          "multicoin-capital-portfolio",
+          "paradigm-portfolio",
+          "bitcoin-ecosystem",
+          "layer-1",
+          "ftx-bankruptcy-estate",
+          "2017-2018-alt-season",
+          "us-strategic-crypto-reserve",
+          "binance-ecosystem",
+          "binance-listing",
+          "sec-cftc-token-taxonomy",
+          "sec-cftc-digital-commodities"
+        ],
+        "tag-names": [
+          "Mineable",
+          "PoW",
+          "SHA-256",
+          "Store Of Value",
+          "State Channel",
+          "Coinbase Ventures Portfolio",
+          "Three Arrows Capital Portfolio",
+          "Polychain Capital Portfolio",
+          "YZi Labs Portfolio",
+          "Blockchain Capital Portfolio",
+          "BoostVC Portfolio",
+          "CMS Holdings Portfolio",
+          "DCG Portfolio",
+          "DragonFly Capital Portfolio",
+          "Electric Capital Portfolio",
+          "Fabric Ventures Portfolio",
+          "Framework Ventures Portfolio",
+          "Galaxy Digital Portfolio",
+          "Huobi Capital Portfolio",
+          "Alameda Research Portfolio",
+          "a16z Portfolio",
+          "1Confirmation Portfolio",
+          "Winklevoss Capital Portfolio",
+          "USV Portfolio",
+          "Placeholder Ventures Portfolio",
+          "Pantera Capital Portfolio",
+          "Multicoin Capital Portfolio",
+          "Paradigm Portfolio",
+          "Bitcoin Ecosystem",
+          "Layer 1",
+          "FTX Bankruptcy Estate ",
+          "2017/18 Alt season",
+          "US Strategic Crypto Reserve",
+          "Binance Ecosystem",
+          "Binance Listing",
+          "SEC/CFTC Token Taxonomy",
+          "SEC/CFTC Digital Commodities"
+        ],
+        "tag-groups": [
+          "OTHERS",
+          "ALGORITHM",
+          "ALGORITHM",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "PLATFORM",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY"
+        ],
+        "urls": {
+          "website": [
+            "https://bitcoin.org/"
+          ],
+          "twitter": [],
+          "message_board": [
+            "https://bitcointalk.org"
+          ],
+          "chat": [],
+          "facebook": [],
+          "explorer": [
+            "https://blockchain.info/",
+            "https://live.blockcypher.com/btc/",
+            "https://blockchair.com/bitcoin",
+            "https://explorer.viabtc.com/btc",
+            "https://www.okx.com/web3/explorer/btc"
+          ],
+          "reddit": [
+            "https://reddit.com/r/bitcoin"
+          ],
+          "technical_doc": [
+            "https://bitcoin.org/bitcoin.pdf"
+          ],
+          "source_code": [
+            "https://github.com/bitcoin/bitcoin"
+          ],
+          "announcement": []
+        },
+        "platform": {
+          "id": "1",
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "slug": "bitcoin"
+        },
+        "date_added": "2010-07-13T00:00:00.000Z",
+        "twitter_username": "",
+        "is_hidden": 0,
+        "date_launched": "2010-07-13T00:00:00.000Z",
+        "infinite_supply": false
+      },
+      {
+        "id": 38552,
+        "name": "Bitcoin Base",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "Bitcoin Base (BTC) is a cryptocurrency launched in 2025and operates on the Base platform. Bitcoin Base has a current supply of 21,000,000 with 20,911,183 in circulation. The last known price of Bitcoin Base is 0.00269359 USD and is down -4.20 over the last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://baseoff.xyz.",
+        "slug": "bitcoin-base",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/38552.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": [
+          "base-ecosystem"
+        ],
+        "tag-names": [
+          "Base Ecosystem"
+        ],
+        "tag-groups": [
+          "PLATFORM"
+        ],
+        "urls": {
+          "website": [
+            "https://baseoff.xyz"
+          ],
+          "twitter": [
+            "https://twitter.com/bitcoin_base1"
+          ],
+          "message_board": [],
+          "chat": [
+            "https://t.me/bitcoinbaseoff"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://basescan.org/token/0xfaf1c31f6855e91b1a905761c81a79e4966e4709"
+          ],
+          "reddit": [],
+          "technical_doc": [],
+          "source_code": [],
+          "announcement": []
+        },
+        "platform": {
+          "id": "27716",
+          "name": "Base",
+          "symbol": "-",
+          "slug": "base",
+          "token_address": "0xFaF1C31F6855E91B1a905761C81A79e4966e4709"
+        },
+        "date_added": "2025-10-02T08:10:36.000Z",
+        "twitter_username": "bitcoin_base1",
+        "is_hidden": 0,
+        "date_launched": "2025-09-29T00:00:00.000Z",
+        "contract_address": [
+          {
+            "contract_address": "0xFaF1C31F6855E91B1a905761C81A79e4966e4709",
+            "platform": {
+              "name": "Base",
+              "coin": {
+                "id": "27716",
+                "name": "Base",
+                "symbol": "-",
+                "slug": "base"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": 21000000,
+        "self_reported_market_cap": 56565.47327682943,
+        "infinite_supply": false
+      },
+      {
+        "id": 38692,
+        "name": "Bitcoin Second Chance",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "Bitcoin Second Chance (BTC) is a cryptocurrency launched in 2025and operates on the BNB Smart Chain (BEP20) platform. Bitcoin Second Chance has a current supply of 21,000,000 with 20,997,243 in circulation. The last known price of Bitcoin Second Chance is 0.00118509 USD and is up 1.10 over the last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://tokensecondchance.xyz/.",
+        "slug": "bitcoin-second-chance",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/38692.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": [
+          "memes",
+          "bnb-chain-ecosystem"
+        ],
+        "tag-names": [
+          "Memes",
+          "BNB Chain Ecosystem"
+        ],
+        "tag-groups": [
+          "INDUSTRY",
+          "PLATFORM"
+        ],
+        "urls": {
+          "website": [
+            "https://tokensecondchance.xyz/"
+          ],
+          "twitter": [
+            "https://twitter.com/bitcoin_second"
+          ],
+          "message_board": [],
+          "chat": [
+            "https://t.me/bitcoinsecondchance1"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://bscscan.com/token/0x0afcb0065362ec8bc94902479b9d37e3fa49eda6"
+          ],
+          "reddit": [],
+          "technical_doc": [],
+          "source_code": [],
+          "announcement": []
+        },
+        "platform": {
+          "id": "1839",
+          "name": "BNB",
+          "symbol": "BNB",
+          "slug": "bnb",
+          "token_address": "0x0afcb0065362ec8bc94902479b9d37e3fa49eda6"
+        },
+        "date_added": "2025-10-15T09:54:01.000Z",
+        "twitter_username": "bitcoin_second",
+        "is_hidden": 0,
+        "date_launched": "2025-10-12T00:00:00.000Z",
+        "contract_address": [
+          {
+            "contract_address": "0x0afcb0065362ec8bc94902479b9d37e3fa49eda6",
+            "platform": {
+              "name": "BNB Smart Chain (BEP20)",
+              "coin": {
+                "id": "1839",
+                "name": "BNB",
+                "symbol": "BNB",
+                "slug": "bnb"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": 21000000,
+        "self_reported_market_cap": 24886.941779499033,
+        "infinite_supply": false
+      },
+      {
+        "id": 38133,
+        "name": "Bitcoin AI",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "Bitcoin AI (BTC) is a cryptocurrency launched in 2025and operates on the BNB Smart Chain (BEP20) platform. Bitcoin AI has a current supply of 21,000,000 with 20,982,018 in circulation. The last known price of Bitcoin AI is 0.0007979 USD and is down -3.12 over the last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://btctokenoff.xyz.",
+        "slug": "bitcoin-ai",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/38133.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": [
+          "memes",
+          "bnb-chain-ecosystem"
+        ],
+        "tag-names": [
+          "Memes",
+          "BNB Chain Ecosystem"
+        ],
+        "tag-groups": [
+          "INDUSTRY",
+          "PLATFORM"
+        ],
+        "urls": {
+          "website": [
+            "https://btctokenoff.xyz"
+          ],
+          "twitter": [
+            "https://twitter.com/Bitcoin_ai_off"
+          ],
+          "message_board": [],
+          "chat": [
+            "https://t.me/bitcoinaitoken1"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://bscscan.com/token/0xf22aac87E08d7FC60aA89eb21110ddfE59c20854"
+          ],
+          "reddit": [],
+          "technical_doc": [
+            "https://bitcoin-ai.gitbook.io/bitcoin-ai-docs"
+          ],
+          "source_code": [],
+          "announcement": []
+        },
+        "platform": {
+          "id": "1839",
+          "name": "BNB",
+          "symbol": "BNB",
+          "slug": "bnb",
+          "token_address": "0xf22aac87E08d7FC60aA89eb21110ddfE59c20854"
+        },
+        "date_added": "2025-08-19T09:38:10.000Z",
+        "twitter_username": "Bitcoin_ai_off",
+        "is_hidden": 0,
+        "date_launched": "2025-08-17T00:00:00.000Z",
+        "contract_address": [
+          {
+            "contract_address": "0xf22aac87E08d7FC60aA89eb21110ddfE59c20854",
+            "platform": {
+              "name": "BNB Smart Chain (BEP20)",
+              "coin": {
+                "id": "1839",
+                "name": "BNB",
+                "symbol": "BNB",
+                "slug": "bnb"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": 21000000,
+        "self_reported_tags": [
+          "DeFi",
+          "Memes",
+          "Binance Chain",
+          "BNB Chain Ecosystem",
+          "AI Memes"
+        ],
+        "self_reported_market_cap": 16755.841869688982,
+        "infinite_supply": false
+      },
+      {
+        "id": 42691,
+        "name": "Big Titty Coin",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "Big Titty Coin (BTC) is a cryptocurrency launched in 2026and operates on the Robinhood Chain platform. Big Titty Coin has a current supply of 1,000,000,000. The last known price of Big Titty Coin is 0.00000247 USD and is up 0.00 over the last 24 hours. It is currently trading on 2 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://bigtittycoinrh.com.",
+        "slug": "big-titty-coin",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/42691.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": [
+          "memes",
+          "robinhood-ecosystem",
+          "robinhood-memes"
+        ],
+        "tag-names": [
+          "Memes",
+          "Robinhood Ecosystem",
+          "Robinhood Memes"
+        ],
+        "tag-groups": [
+          "INDUSTRY",
+          "CATEGORY",
+          "CATEGORY"
+        ],
+        "urls": {
+          "website": [
+            "https://bigtittycoinrh.com"
+          ],
+          "twitter": [
+            "https://twitter.com/BigTittyCoinRH"
+          ],
+          "message_board": [],
+          "chat": [
+            "https://t.me/BigTittyCoinRH"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://robinhoodchain.blockscout.com/token/0xa5b562d13486735d2a96d6b230489b1f33731440",
+            "https://robin.etherscan.io/token/0xa5b562d13486735d2a96d6b230489b1f33731440"
+          ],
+          "reddit": [],
+          "technical_doc": [],
+          "source_code": [],
+          "announcement": [
+            "https://x.com/BigTittyCoinRH"
+          ]
+        },
+        "platform": {
+          "id": "40670",
+          "name": "Robinhood",
+          "symbol": "-",
+          "slug": "robinhood-placeholder",
+          "token_address": "0xA5B562D13486735D2a96D6B230489B1F33731440"
+        },
+        "date_added": "2026-10-28T09:35:00.000Z",
+        "twitter_username": "BigTittyCoinRH",
+        "is_hidden": 0,
+        "date_launched": "2026-10-25T00:00:00.000Z",
+        "contract_address": [
+          {
+            "contract_address": "0xA5B562D13486735D2a96D6B230489B1F33731440",
+            "platform": {
+              "name": "Robinhood Chain",
+              "coin": {
+                "id": "40670",
+                "name": "Robinhood",
+                "symbol": "-",
+                "slug": "robinhood-placeholder"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": 1000000000,
+        "self_reported_tags": [
+          "Memes",
+          "Token",
+          "Robinhood Memes"
+        ],
+        "self_reported_market_cap": 2471.7080664555174,
+        "infinite_supply": false
+      },
+      {
+        "id": 38601,
+        "name": "Bitcoin X (tokenxoff.xyz)",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "Bitcoin X (tokenxoff.xyz) (BTC) is a cryptocurrency launched in 2025and operates on the BNB Smart Chain (BEP20) platform. Bitcoin X (tokenxoff.xyz) has a current supply of 21,000,000 with 0 in circulation. The last known price of Bitcoin X (tokenxoff.xyz) is 0.00007572 USD and is down -5.04 over the last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://tokenxoff.xyz.",
+        "slug": "bitcoin-x-tokenxoff-xyz",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/38601.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": [
+          "bnb-chain-ecosystem"
+        ],
+        "tag-names": [
+          "BNB Chain Ecosystem"
+        ],
+        "tag-groups": [
+          "PLATFORM"
+        ],
+        "urls": {
+          "website": [
+            "https://tokenxoff.xyz"
+          ],
+          "twitter": [
+            "https://twitter.com/BitcoinX_off"
+          ],
+          "message_board": [],
+          "chat": [
+            "https://t.me/bitcoinxoff"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://bscscan.com/token/0x5c1b89F02CDae86EDe019d6b2AE071E456f4f804"
+          ],
+          "reddit": [],
+          "technical_doc": [],
+          "source_code": [],
+          "announcement": []
+        },
+        "platform": {
+          "id": "1839",
+          "name": "BNB",
+          "symbol": "BNB",
+          "slug": "bnb",
+          "token_address": "0x5c1b89F02CDae86EDe019d6b2AE071E456f4f804"
+        },
+        "date_added": "2025-10-07T07:49:31.000Z",
+        "twitter_username": "BitcoinX_off",
+        "is_hidden": 0,
+        "date_launched": "2025-10-04T00:00:00.000Z",
+        "contract_address": [
+          {
+            "contract_address": "0x5c1b89F02CDae86EDe019d6b2AE071E456f4f804",
+            "platform": {
+              "name": "BNB Smart Chain (BEP20)",
+              "coin": {
+                "id": "1839",
+                "name": "BNB",
+                "symbol": "BNB",
+                "slug": "bnb"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": 21000000,
+        "self_reported_market_cap": 1590.1545355773399,
+        "infinite_supply": false
+      },
+      {
+        "id": 38650,
+        "name": "Bitcoin Inu (tokeninu.xyz)",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "Bitcoin Inu (tokeninu.xyz) (BTC) is a cryptocurrency launched in 2025and operates on the BNB Smart Chain (BEP20) platform. Bitcoin Inu (tokeninu.xyz) has a current supply of 21,000,000 with 0 in circulation. The last known price of Bitcoin Inu (tokeninu.xyz) is 0.00010237 USD and is down -5.75 over the last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://tokeninu.xyz.",
+        "slug": "bitcoin-inu-tokeninu-xyz",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/38650.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": [
+          "memes",
+          "bnb-chain-ecosystem"
+        ],
+        "tag-names": [
+          "Memes",
+          "BNB Chain Ecosystem"
+        ],
+        "tag-groups": [
+          "INDUSTRY",
+          "PLATFORM"
+        ],
+        "urls": {
+          "website": [
+            "https://tokeninu.xyz"
+          ],
+          "twitter": [
+            "https://twitter.com/Bitcoin_inu_off"
+          ],
+          "message_board": [],
+          "chat": [
+            "https://t.me/bitcoininuoff"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://bscscan.com/token/0xe993278fF97C505098dEC831Afb9f4afF2526698"
+          ],
+          "reddit": [],
+          "technical_doc": [],
+          "source_code": [],
+          "announcement": []
+        },
+        "platform": {
+          "id": "1839",
+          "name": "BNB",
+          "symbol": "BNB",
+          "slug": "bnb",
+          "token_address": "0xe993278fF97C505098dEC831Afb9f4afF2526698"
+        },
+        "date_added": "2025-10-10T06:57:15.000Z",
+        "twitter_username": "Bitcoin_inu_off",
+        "is_hidden": 0,
+        "date_launched": "2025-10-06T00:00:00.000Z",
+        "contract_address": [
+          {
+            "contract_address": "0xe993278fF97C505098dEC831Afb9f4afF2526698",
+            "platform": {
+              "name": "BNB Smart Chain (BEP20)",
+              "coin": {
+                "id": "1839",
+                "name": "BNB",
+                "symbol": "BNB",
+                "slug": "bnb"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": 21000000,
+        "self_reported_tags": [
+          "Memes"
+        ],
+        "self_reported_market_cap": 2149.742701556132,
+        "infinite_supply": false
+      },
+      {
+        "id": 39579,
+        "name": "Bitcoin Gold AI",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "Bitcoin Gold AI (BTC) is a cryptocurrency launched in 2026and operates on the BNB Smart Chain (BEP20) platform. Bitcoin Gold AI has a current supply of 21,000,000 with 0 in circulation. The last known price of Bitcoin Gold AI is 0.0001261 USD and is up 29.33 over the last 24 hours. It is currently trading on 2 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://tokenoffglold.xyz.",
+        "slug": "bitcoin-gold-ai",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/39579.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": [
+          "bnb-chain-ecosystem"
+        ],
+        "tag-names": [
+          "BNB Chain Ecosystem"
+        ],
+        "tag-groups": [
+          "PLATFORM"
+        ],
+        "urls": {
+          "website": [
+            "https://tokenoffglold.xyz"
+          ],
+          "twitter": [
+            "https://twitter.com/Bitcoingold_AI"
+          ],
+          "message_board": [],
+          "chat": [
+            "https://t.me/bitcoingoldai"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://bscscan.com/token/0x4b5ae1fb0d931cfa5cdd697da8548e4530157ad4"
+          ],
+          "reddit": [],
+          "technical_doc": [],
+          "source_code": [],
+          "announcement": []
+        },
+        "platform": {
+          "id": "1839",
+          "name": "BNB",
+          "symbol": "BNB",
+          "slug": "bnb",
+          "token_address": "0x4b5ae1fb0d931cfa5cdd697da8548e4530157ad4"
+        },
+        "date_added": "2026-02-13T06:38:53.000Z",
+        "twitter_username": "Bitcoingold_AI",
+        "is_hidden": 0,
+        "date_launched": "2026-02-08T00:00:00.000Z",
+        "contract_address": [
+          {
+            "contract_address": "0x4b5ae1fb0d931cfa5cdd697da8548e4530157ad4",
+            "platform": {
+              "name": "BNB Smart Chain (BEP20)",
+              "coin": {
+                "id": "1839",
+                "name": "BNB",
+                "symbol": "BNB",
+                "slug": "bnb"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": 21000000,
+        "self_reported_market_cap": 2648.0102186979657,
+        "infinite_supply": false
+      },
+      {
+        "id": 39556,
+        "name": "Bridged BTC (NEAR Intents)",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "Bridged BTC (NEAR Intents) (BTC) is a cryptocurrency and operates on the Near platform. Bridged BTC (NEAR Intents) has a current supply of 61 with 0 in circulation. The last known price of Bridged BTC (NEAR Intents) is 61,136.64640779 USD and is down -2.23 over the last 24 hours. It is currently trading on 13 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://explorer.near-intents.org/.",
+        "slug": "bridged-btc-near-intents",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/39556.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": [
+          "defi",
+          "near-protocol-ecosystem",
+          "rehypothecated-crypto"
+        ],
+        "tag-names": [
+          "DeFi",
+          "Near Protocol Ecosystem",
+          "Rehypothecated Crypto"
+        ],
+        "tag-groups": [
+          "CATEGORY",
+          "PLATFORM",
+          "CATEGORY"
+        ],
+        "urls": {
+          "website": [
+            "https://explorer.near-intents.org/"
+          ],
+          "twitter": [],
+          "message_board": [],
+          "chat": [],
+          "facebook": [],
+          "explorer": [
+            "https://nearblocks.io/token/btc.omft.near"
+          ],
+          "reddit": [],
+          "technical_doc": [],
+          "source_code": [],
+          "announcement": []
+        },
+        "platform": {
+          "id": "6535",
+          "name": "NEAR Protocol",
+          "symbol": "NEAR",
+          "slug": "near-protocol",
+          "token_address": "btc.omft.near"
+        },
+        "date_added": "2026-02-09T14:51:15.000Z",
+        "twitter_username": "",
+        "is_hidden": 0,
+        "contract_address": [
+          {
+            "contract_address": "btc.omft.near",
+            "platform": {
+              "name": "Near",
+              "coin": {
+                "id": "6535",
+                "name": "NEAR Protocol",
+                "symbol": "NEAR",
+                "slug": "near-protocol"
+              }
+            }
+          }
+        ],
+        "infinite_supply": false
+      },
+      {
+        "id": 30938,
+        "name": "Satoshi Pumpomoto",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "Satoshi Pumpomoto (BTC) is a cryptocurrency launched in 2024and operates on the Solana platform. Satoshi Pumpomoto has a current supply of 21,000,000 with 0 in circulation. The last known price of Satoshi Pumpomoto is 0.00021094 USD and is up 0.00 over the last 24 hours. More information can be found at https://pumpomoto.com/.",
+        "slug": "satoshi-pumpomoto",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/30938.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": null,
+        "tag-names": null,
+        "tag-groups": null,
+        "urls": {
+          "website": [
+            "https://pumpomoto.com/"
+          ],
+          "twitter": [
+            "https://twitter.com/pumpomoto"
+          ],
+          "message_board": [],
+          "chat": [
+            "https://t.me/pumpomoto"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://solscan.io/token/6AGNtEgBE2jph1bWFdyaqsXJ762emaP9RE17kKxEsfiV"
+          ],
+          "reddit": [],
+          "technical_doc": [],
+          "source_code": [],
+          "announcement": []
+        },
+        "platform": {
+          "id": "5426",
+          "name": "Solana",
+          "symbol": "SOL",
+          "slug": "solana",
+          "token_address": "6AGNtEgBE2jph1bWFdyaqsXJ762emaP9RE17kKxEsfiV"
+        },
+        "date_added": "2024-04-26T06:54:08.000Z",
+        "twitter_username": "pumpomoto",
+        "is_hidden": 0,
+        "date_launched": "2024-04-24T00:00:00.000Z",
+        "contract_address": [
+          {
+            "contract_address": "6AGNtEgBE2jph1bWFdyaqsXJ762emaP9RE17kKxEsfiV",
+            "platform": {
+              "name": "Solana",
+              "coin": {
+                "id": "5426",
+                "name": "Solana",
+                "symbol": "SOL",
+                "slug": "solana"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": 21000000,
+        "self_reported_tags": [
+          "Memes"
+        ],
+        "infinite_supply": false
+      },
+      {
+        "id": 31469,
+        "name": "Boost Trump Campaign",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "Boost Trump Campaign (BTC) is a cryptocurrency launched in 2024and operates on the Ethereum platform. Boost Trump Campaign has a current supply of 420,690,000,000 with 0 in circulation. The last known price of Boost Trump Campaign is 0.00000005 USD and is up 0.00 over the last 24 hours. More information can be found at https://boosttrumpcampaign.com/.",
+        "slug": "boost-trump-campaign",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/31469.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": null,
+        "tag-names": null,
+        "tag-groups": null,
+        "urls": {
+          "website": [
+            "https://boosttrumpcampaign.com/"
+          ],
+          "twitter": [
+            "https://twitter.com/TrumpBTCoin"
+          ],
+          "message_board": [],
+          "chat": [
+            "https://t.me/btctrumpcoin"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://etherscan.io/token/0x300e0d87f8c95d90cfe4b809baa3a6c90e83b850"
+          ],
+          "reddit": [],
+          "technical_doc": [],
+          "source_code": [],
+          "announcement": []
+        },
+        "platform": {
+          "id": "1027",
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "slug": "ethereum",
+          "token_address": "0x300e0d87f8c95d90cfe4b809baa3a6c90e83b850"
+        },
+        "date_added": "2024-05-27T11:52:59.000Z",
+        "twitter_username": "TrumpBTCoin",
+        "is_hidden": 0,
+        "date_launched": "2024-05-25T00:00:00.000Z",
+        "contract_address": [
+          {
+            "contract_address": "0x300e0d87f8c95d90cfe4b809baa3a6c90e83b850",
+            "platform": {
+              "name": "Ethereum",
+              "coin": {
+                "id": "1027",
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "slug": "ethereum"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": 420690000000,
+        "self_reported_tags": [
+          "Political Memes"
+        ],
+        "infinite_supply": false
+      },
+      {
+        "id": 31652,
+        "name": "batcat",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "batcat (BTC) is a cryptocurrency launched in 2024and operates on the Solana platform. batcat has a current supply of 1,000,000,000 with 0 in circulation. The last known price of batcat is 0.00001063 USD and is up 0.00 over the last 24 hours. More information can be found at https://www.batcat.lol/.",
+        "slug": "batcat",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/31652.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": [
+          "memes",
+          "solana-ecosystem"
+        ],
+        "tag-names": [
+          "Memes",
+          "Solana Ecosystem"
+        ],
+        "tag-groups": [
+          "INDUSTRY",
+          "PLATFORM"
+        ],
+        "urls": {
+          "website": [
+            "https://www.batcat.lol/"
+          ],
+          "twitter": [
+            "https://twitter.com/BatCatonsolana"
+          ],
+          "message_board": [],
+          "chat": [
+            "https://t.me/TheBatCatPortal"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://solscan.io/token/EtBc6gkCvsB9c6f5wSbwG8wPjRqXMB5euptK6bqG1R4X"
+          ],
+          "reddit": [],
+          "technical_doc": [],
+          "source_code": [],
+          "announcement": []
+        },
+        "platform": {
+          "id": "5426",
+          "name": "Solana",
+          "symbol": "SOL",
+          "slug": "solana",
+          "token_address": "EtBc6gkCvsB9c6f5wSbwG8wPjRqXMB5euptK6bqG1R4X"
+        },
+        "date_added": "2024-06-06T09:25:57.000Z",
+        "twitter_username": "BatCatonsolana",
+        "is_hidden": 0,
+        "date_launched": "2024-03-27T00:00:00.000Z",
+        "contract_address": [
+          {
+            "contract_address": "EtBc6gkCvsB9c6f5wSbwG8wPjRqXMB5euptK6bqG1R4X",
+            "platform": {
+              "name": "Solana",
+              "coin": {
+                "id": "5426",
+                "name": "Solana",
+                "symbol": "SOL",
+                "slug": "solana"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": 999939377,
+        "infinite_supply": false
+      },
+      {
+        "id": 32295,
+        "name": "Bullish Trump Coin",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "Bullish Trump Coin (BTC) is a cryptocurrency launched in 2024and operates on the Ethereum platform. Bullish Trump Coin has a current supply of 420,690,000,000 with 0 in circulation. The last known price of Bullish Trump Coin is 0.00000003 USD and is up 0.00 over the last 24 hours. More information can be found at https://bullishtrumpcoin.io/.",
+        "slug": "bullish-trump-coin",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/32295.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": [
+          "memes",
+          "political-memes"
+        ],
+        "tag-names": [
+          "Memes",
+          "Political Memes"
+        ],
+        "tag-groups": [
+          "INDUSTRY",
+          "CATEGORY"
+        ],
+        "urls": {
+          "website": [
+            "https://bullishtrumpcoin.io/"
+          ],
+          "twitter": [
+            "https://twitter.com/bullishtrumpERC"
+          ],
+          "message_board": [],
+          "chat": [
+            "https://t.me/BullishTrumpCoinERC20"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://etherscan.io/token/0x43fd9de06bb69ad771556e171f960a91c42d2955"
+          ],
+          "reddit": [],
+          "technical_doc": [],
+          "source_code": [],
+          "announcement": []
+        },
+        "platform": {
+          "id": "1027",
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "slug": "ethereum",
+          "token_address": "0x43FD9De06bb69aD771556E171f960A91c42D2955"
+        },
+        "date_added": "2024-07-19T09:39:13.000Z",
+        "twitter_username": "bullishtrumpERC",
+        "is_hidden": 0,
+        "date_launched": "2024-07-17T00:00:00.000Z",
+        "contract_address": [
+          {
+            "contract_address": "0x43FD9De06bb69aD771556E171f960A91c42D2955",
+            "platform": {
+              "name": "Ethereum",
+              "coin": {
+                "id": "1027",
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "slug": "ethereum"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": 420690000000,
+        "infinite_supply": false
+      },
+      {
+        "id": 34316,
+        "name": "HarryPotterTrumpSonic100Inu",
+        "symbol": "BTC",
+        "category": "token",
+        "description": "HarryPotterTrumpSonic100Inu (BTC) is a cryptocurrency launched in 2024and operates on the Ethereum platform. HarryPotterTrumpSonic100Inu has a current supply of 1,000,420,069 with 0 in circulation. The last known price of HarryPotterTrumpSonic100Inu is 0.00000924 USD and is up 0.00 over the last 24 hours. More information can be found at https://hpts100i.com/.",
+        "slug": "harrypottertrumpsonic100inu",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/34316.png",
+        "subreddit": "",
+        "notice": "",
+        "tags": [
+          "memes"
+        ],
+        "tag-names": [
+          "Memes"
+        ],
+        "tag-groups": [
+          "INDUSTRY"
+        ],
+        "urls": {
+          "website": [
+            "https://hpts100i.com/"
+          ],
+          "twitter": [
+            "https://twitter.com/realhpts100i"
+          ],
+          "message_board": [],
+          "chat": [
+            "https://t.me/hpts100inu"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://etherscan.io/token/0x7099ab9e42fa7327a6b15e0a0c120c3e50d11bec"
+          ],
+          "reddit": [],
+          "technical_doc": [],
+          "source_code": [],
+          "announcement": []
+        },
+        "platform": {
+          "id": "1027",
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "slug": "ethereum",
+          "token_address": "0x7099aB9E42Fa7327a6b15E0a0c120c3e50d11BeC"
+        },
+        "date_added": "2024-11-29T10:04:10.000Z",
+        "twitter_username": "realhpts100i",
+        "is_hidden": 0,
+        "date_launched": "2024-11-27T00:00:00.000Z",
+        "contract_address": [
+          {
+            "contract_address": "0x7099aB9E42Fa7327a6b15E0a0c120c3e50d11BeC",
+            "platform": {
+              "name": "Ethereum",
+              "coin": {
+                "id": "1027",
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "slug": "ethereum"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": 1000420069,
+        "infinite_supply": false
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2026-11-21T14:41:26.918Z",
+    "error_code": 0,
+    "error_message": null,
+    "elapsed": 16,
+    "credit_count": 1,
+    "notice": null
+  }
+}

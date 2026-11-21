@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": 60197.812356090384,
+          "last_updated": "2026-11-21T14:40:02.000Z"
+        }
+      },
+      "last_updated": "2026-11-21T14:41:03.022Z"
+    },
+    {
+      "id": 38552,
+      "symbol": "BTC",
+      "name": "Bitcoin Base",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": 0.002693593965563306,
+          "last_updated": "2026-11-21T14:40:02.000Z"
+        }
+      },
+      "last_updated": "2026-11-21T14:41:03.185Z"
+    },
+    {
+      "id": 38692,
+      "symbol": "BTC",
+      "name": "Bitcoin Second Chance",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": 0.0011850924656904302,
+          "last_updated": "2026-11-21T14:40:02.000Z"
+        }
+      },
+      "last_updated": "2026-11-21T14:41:03.090Z"
+    },
+    {
+      "id": 38133,
+      "symbol": "BTC",
+      "name": "Bitcoin AI",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": 0.0007978972318899516,
+          "last_updated": "2026-11-21T14:40:02.000Z"
+        }
+      },
+      "last_updated": "2026-11-21T14:41:03.143Z"
+    },
+    {
+      "id": 42691,
+      "symbol": "BTC",
+      "name": "Big Titty Coin",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": 2.4717080664555176e-06,
+          "last_updated": "2026-11-21T14:40:02.000Z"
+        }
+      },
+      "last_updated": "2026-11-21T14:41:03.022Z"
+    },
+    {
+      "id": 38601,
+      "symbol": "BTC",
+      "name": "Bitcoin X (tokenxoff.xyz)",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": 7.57216445513019e-05,
+          "last_updated": "2026-11-21T14:40:02.000Z"
+        }
+      },
+      "last_updated": "2026-11-21T14:41:03.022Z"
+    },
+    {
+      "id": 38650,
+      "symbol": "BTC",
+      "name": "Bitcoin Inu (tokeninu.xyz)",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": 0.00010236870007410152,
+          "last_updated": "2026-11-21T14:40:02.000Z"
+        }
+      },
+      "last_updated": "2026-11-21T14:41:03.064Z"
+    },
+    {
+      "id": 39579,
+      "symbol": "BTC",
+      "name": "Bitcoin Gold AI",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": 0.00012609572469990312,
+          "last_updated": "2026-11-21T14:40:02.000Z"
+        }
+      },
+      "last_updated": "2026-11-21T14:41:03.162Z"
+    },
+    {
+      "id": 39556,
+      "symbol": "BTC",
+      "name": "Bridged BTC (NEAR Intents)",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": 60919.54810734576,
+          "last_updated": "2026-11-21T14:40:02.000Z"
+        }
+      },
+      "last_updated": "2026-11-21T14:41:03.090Z"
+    },
+    {
+      "id": 30938,
+      "symbol": "BTC",
+      "name": "Satoshi Pumpomoto",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": null
+        }
+      }
+    },
+    {
+      "id": 31469,
+      "symbol": "BTC",
+      "name": "Boost Trump Campaign",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": null
+        }
+      }
+    },
+    {
+      "id": 31652,
+      "symbol": "BTC",
+      "name": "batcat",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": null
+        }
+      }
+    },
+    {
+      "id": 32295,
+      "symbol": "BTC",
+      "name": "Bullish Trump Coin",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": null
+        }
+      }
+    },
+    {
+      "id": 34316,
+      "symbol": "BTC",
+      "name": "HarryPotterTrumpSonic100Inu",
+      "amount": 1.0,
+      "quote": {
+        "USD": {
+          "price": null
+        }
+      }
+    }
+  ],
+  "status": {
+    "timestamp": "2026-11-21T14:41:23.064Z",
+    "error_code": 0,
+    "error_message": null,
+    "elapsed": 3,
+    "credit_count": 1,
+    "notice": null
+  }
+}

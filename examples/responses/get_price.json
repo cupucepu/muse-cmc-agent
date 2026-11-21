@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "slug": "bitcoin",
+      "quotes": [
+        {
+          "symbol": "USD",
+          "price": 60181.18035366155
+        }
+      ]
+    },
+    {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "quotes": [
+        {
+          "symbol": "USD",
+          "price": 1684.7997653824457
+        }
+      ]
+    },
+    {
+      "id": 1839,
+      "name": "BNB",
+      "symbol": "BNB",
+      "slug": "bnb",
+      "quotes": [
+        {
+          "symbol": "USD",
+          "price": 546.1818266193108
+        }
+      ]
+    }
+  ],
+  "status": {
+    "timestamp": "2026-11-21T14:41:01.366Z",
+    "error_code": "0",
+    "error_message": "",
+    "elapsed": 5,
+    "credit_count": 1
+  }
+}

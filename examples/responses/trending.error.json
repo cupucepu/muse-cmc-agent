@@ -1,0 +1,9 @@
+{
+  "tool": "trending",
+  "arguments": {
+    "limit": 5
+  },
+  "error": "/v1/cryptocurrency/trending/latest is NOT available on the keyless public API \u2014 CoinMarketCap returns HTTP 403 error_code 1005 ('An API Key is required for this call'). Set CMC_PRO_API_KEY (free Basic, or the free Startup tier from the hackathon) to use it. No request was sent.",
+  "http_status": null,
+  "error_code": null
+}
