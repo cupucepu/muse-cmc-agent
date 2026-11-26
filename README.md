@@ -18,7 +18,7 @@ prices. No wallet, no signing, no trading, no execution.
 Requirements: **Python 3.8+ only. No pip packages, no `requirements.txt`.**
 
 ```bash
-git clone https://github.com/<you>/muse-cmc-agent.git
+git clone https://github.com/cupucepu/muse-cmc-agent.git
 cd muse-cmc-agent
 python3 -m cmc_agent price BTC ETH BNB
 python3 -m cmc_agent top 5
@@ -148,7 +148,7 @@ python3 -m cmc_agent price BTC --json   # raw CMC JSON
 8. Errors are returned as errors, never as invented numbers.
 9. Keyed-only tools refuse *before* sending any request when no key
    is set, with the exact CMC error explained.
-10. Total: ~700 lines of Python, stdlib only.
+10. Total: ~850 lines of Python, stdlib only.
 
 ## Verification (2026-11-21, keyless, no key)
 
@@ -170,9 +170,11 @@ The two keyed-only tools are *not* in the keyless list published at
 <https://coinmarketcap.com/api/documentation/pro-api-reference/keyless-public-api>
 (18 standard + 17 DEX endpoints) — they were probed live and failed
 exactly as documented, so the server reports that instead of faking
-a response. The full error payloads are in
+a response. The files
 `examples/responses/gainers_losers.error.json` and
-`examples/responses/trending.error.json`.
+`examples/responses/trending.error.json` record the tool's own
+keyed-only guard error (no request was sent); the live 403 / error_code
+1005 behaviour is described in prose above, no raw 403 payload is saved.
 
 ## What the API made possible / where it got in the way
 

@@ -1,0 +1,40 @@
+muse-cmc-agent demo — keyed mode: False (keyless public API if False)
+
+1. Prices — BTC / ETH / BNB
+---------------------------
+BTC (Bitcoin): $60,857.72
+ETH (Ethereum): $1,710.45
+BNB (BNB): $557.03
+
+2. Top 5 coins by market cap
+----------------------------
+#1 BTC $60,861.35 (+1.02% 24h) mcap $1,224,275,181,101.04
+#2 ETH $1,710.51 (+1.44% 24h) mcap $209,096,437,967.98
+#3 USDT $1.00 (+0.02% 24h) mcap $174,586,937,811.62
+#4 BNB $557.08 (+1.88% 24h) mcap $73,261,732,155.07
+#5 USDC $1.00 (-0.00% 24h) mcap $68,399,326,906.90
+
+3. Fear & Greed index
+---------------------
+Fear & Greed: 8 (Extreme fear) — updated 2026-11-22T14:53:10.073Z
+
+4. Global market metrics
+------------------------
+Total market cap: $2,078,853,582,231.15
+24h volume: $62,026,269,636.95
+BTC dominance: 58.839353760383%
+ETH dominance: 10.049179469828%
+Active cryptocurrencies: 7939
+
+5. Convert 1 BTC -> USD
+-----------------------
+1.0 BTC = $60,861.35
+
+6. DEX price — WBNB on BSC
+--------------------------
+WBNB on BSC (DEX): $557.62 (+2.08% 24h)
+24h volume: $84,648,583.46
+Liquidity: $41,159,923.37
+Market cap: $866,305,569.53
+
+Demo done: 6 ok, 0 failed.

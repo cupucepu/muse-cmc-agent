@@ -15,3 +15,7 @@ venv/
 # Editor / OS
 .DS_Store
 .vscode/
+
+# demo video (hosted/linked in submission, not committed)
+demo.mp4
+demo-v2.mp4

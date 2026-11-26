@@ -1,4 +1,4 @@
-"""Demo for muse-cmc-agent: 5 real keyless calls, in sequence.
+"""Demo for muse-cmc-agent: 6 real keyless calls, in sequence.
 
 Runs the same code path as the MCP tools and the CLI, prints formatted
 output, and never invents data — a failed call is reported as failed.
